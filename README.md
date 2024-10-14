@@ -2,14 +2,23 @@
 Here you can find updated lists of current jobs that need work done. 
 
 1.) Python backend web development (Has not been started)
+
 2.) Python data querying (Has little work done on the script)
+
 3.) Tezos Dapp development (smart contracts)-(Has not been started)
+
 4.) Web Development (Has been started, continue open source work)
+
 5.) Web 3 Development (Has not been started)
+
 6.) Database entries (Has been started with several completions)
+
 7.) Data cleaning (Has been started)
+
 8.) Data fat check (Has been started)
+
 9.) Social Accounts (Has been started)
+
 10.) Recurtment (Has been started)
 
 These jobs are all open-source projects that people are working on or have yet to be started. If you feel you have the necessary skills for a particular job, feel free to reach out for further guidance. 
