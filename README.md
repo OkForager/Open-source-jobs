@@ -28,7 +28,7 @@ Each job requires a certain type of skill set to meet the requirements. It's bes
 
 There are jobs for all skill levels here, so even if you are just starting there is likely a place for you to test and try your skills in a real working environment. Working with others and learning on the go will alow you to learn new skills in real working environment with teams and organized collaborative thinking and communicating.
 
-Contact - C. d Jong 
+Contact - C. de Jong 
 E-mail info@earthsdb.com
 
 
